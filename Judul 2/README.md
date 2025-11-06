@@ -1,3 +1,7 @@
+Abrar Rafii Ibrahim
+2315061095
+Tugas Akhir Judul 2 Praktikum Jaringan Komputer
+
 Link YouTube: https://youtu.be/Z2gNq2wvFXc
 
 Dapat dijelaskan pada Tugas Akhir Judul 2 pada Praktikum Jaringan Komputer, bahwa apabila pengguna belum atau salah dalam melakukan konfigurasi baik pada Switch, Router, atau Default Gateway, maka yang terjadi saat ingin berkomunikasi adalah Request Timed Out (RTO) yang disebabkan karena konfigurasinya yang tidak sesuai. 
